@@ -30,8 +30,8 @@
 
 ## Grading
 - **Homework grade:** 20%
-- **In-class Performance:** 10%
-- **Mid-term:** 30%
+- **In-class Performance:** 20%
+- **Mid-term:** 20%
 - **Final Examination:** 0%
 - **Project:** 40%
 
